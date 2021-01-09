@@ -1,0 +1,3 @@
+[submodule "react_xo"]
+	path = react_xo
+	url = git@github.com:artun-o/react_xo.git
